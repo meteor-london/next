@@ -1,5 +1,7 @@
 # Meteor London
 
+[![Gitter chat](https://badges.gitter.im/meteor-london.png)](https://gitter.im/meteor-london)
+
 Making plans for the next...
 
 ## Questions for Speakers
