@@ -1,6 +1,6 @@
 # Meteor London
 
-[![Gitter chat](https://badges.gitter.im/meteor-london.png)](https://gitter.im/meteor-london)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/meteor-london/next?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Making plans for the next...
 
